@@ -1,0 +1,6 @@
+python main.py \
+	-gpu 0 \
+	-dataset davis17 \
+	-method msn \
+	-data_root data/DAVIS-2017-trainval \
+	-select_file select_files/davis17.txt

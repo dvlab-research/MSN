@@ -1,0 +1,13 @@
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*/*/*/*/*.pyc
+
+*.pth
+logs/
+pretrained_models/
+save/
+select_files/
+*.cmd
+*.log
